@@ -7,5 +7,5 @@
 ### About me
 I'm a {backend, frontend and mobile} developer.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jardelnz&show_icons=true&count_private=true&theme=radical)](https://github.com/jardelnz/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jardelnz&show_icons=true&count_private=true&theme=radical)](https://github.com/jardelnz?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jardelnz&layout=compact)](https://github.com/jardelnz/github-readme-stats)
