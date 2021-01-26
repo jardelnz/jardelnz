@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jardelnz)](https://github.com/jardelnz/github-readme-stats)
 <!--
 **jardelnz/jardelnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
